@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 '''
-str to int
+Str to int
 '''
 
 __author__ = 'Ma Jie'
